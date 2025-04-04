@@ -1,5 +1,6 @@
 # HOMEWORK_3
 # README - Deep Learning Tasks
+STUDENT NAME : NITHIN AARON KOMMIREDDY       STUDENT ID : 700752900
 
 ## Task 1: Implementing a Basic Autoencoder
 
